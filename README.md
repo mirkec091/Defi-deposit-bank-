@@ -1,4 +1,4 @@
-Defi deposit bank (Yield Farm) //r
+Defi deposit bank (Yield Farm) 
 
     Users  stake their tokens in the Defi deposit Bank solidity smart contract „ML_Depositary_Bank“.
 
